@@ -45,5 +45,5 @@ package com.discount.model;
 		this.discount_nar = discount_nar;
 	}
 
-
+//TESTgALLON
 }
